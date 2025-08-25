@@ -34,7 +34,7 @@ Discover more of our fantastic projects at . Your journey into the world of tech
 
 ## Thank You! 👏
 
-We appreciate you taking the time to explore our Password Strength Checker project. Your online security is our top priority, and we hope this tool helps you keep your accounts safe.
+We appreciate you taking the time to explore our Password Testing project. Your online security is our top priority, and we hope this tool helps you keep your accounts safe.
 
 ## Hashtags 📌
 
